@@ -1,0 +1,8 @@
+exclude_paths:
+- "server/"
+
+engines:
+  duplication:
+    enabled: false
+  eslint:
+    enabled: true
